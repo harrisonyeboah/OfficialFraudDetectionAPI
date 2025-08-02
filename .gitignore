@@ -1,2 +1,20 @@
-creditcard_2023.csv
-creditcard_2023.csv
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Data files
+*.csv
+*.pkl
+
+# OS and editor specific files
+.DS_Store
+*.swp
+
+# Optional: exclude Procfile if not needed
+# Procfile
